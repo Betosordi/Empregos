@@ -1,0 +1,33 @@
+body { background-color: grey;
+    color: white;}
+    head img{
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        border: 5px solid white;
+
+    }
+
+
+    header img{
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        border: 5px solid white;
+
+    }
+
+    img{
+        width: 950px;
+        height: 400px;
+        border-width: 50%;
+        border: 5px solid yellow;
+    }
+    .center{
+        text-align: center;
+    }
+
+   a{ color: white;}
+  
+   .esquerda{
+    text-align:left}
